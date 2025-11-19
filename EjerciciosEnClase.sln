@@ -5,6 +5,8 @@ VisualStudioVersion = 17.14.36623.8 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusquedaLinealConsola", "BusquedaLinealConsola\BusquedaLinealConsola.csproj", "{851587F0-07C3-4424-A910-064D5C9C2259}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusquedaBinariaConsola", "..\BusquedaBinariaConsola\BusquedaBinariaConsola\BusquedaBinariaConsola.csproj", "{A3D22101-D713-4249-8900-AC44EA955376}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{851587F0-07C3-4424-A910-064D5C9C2259}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{851587F0-07C3-4424-A910-064D5C9C2259}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{851587F0-07C3-4424-A910-064D5C9C2259}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3D22101-D713-4249-8900-AC44EA955376}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3D22101-D713-4249-8900-AC44EA955376}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3D22101-D713-4249-8900-AC44EA955376}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3D22101-D713-4249-8900-AC44EA955376}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

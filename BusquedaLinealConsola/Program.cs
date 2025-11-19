@@ -4,7 +4,7 @@ namespace BusquedaLinealConsola
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main(string[] args)                     
         {
             
             int[] numeros = new int[20];
